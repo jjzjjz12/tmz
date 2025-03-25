@@ -1,1 +1,0 @@
-import{G as e,p as n}from"./index-Bwi5gLBw.js";function i(t){return e("/stationList",t)}function s(t){return e("/station/edit",t)}function u(t){return e("/station/delete",{id:t})}function a(){return n("/revenueChart")}function o(t){return e("/revenueList",t)}function p(){return e("/currentList")}export{a,p as c,u as d,s as e,i as l,o as r};
